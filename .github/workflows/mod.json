@@ -1,0 +1,13 @@
+{
+  "geode": "3.0.0",
+  "id": "com.zoya.aibot",
+  "name": "AI Path Marker",
+  "version": "v1.0.0",
+  "developer": "Zoya",
+  "description": "Мод для сканирования уровня и отрисовки точек нажатия.",
+  "dependencies": [],
+  "resources": {
+    "sprites": []
+  }
+}
+
